@@ -1,0 +1,65 @@
+/* Default */
+.gldprcprt-gold-price p{color: #000000;margin: 0;font-size: 15px;line-height: 24px;padding: 5px 0 5px 5px;}
+.gldprcprt-gold-price label{font-family: system-ui;font-size: 14px;color: #e8e8e8;cursor: auto;}
+.gldprcprt-gold-price a{text-decoration: none;color: #e8e8e8;cursor: pointer;}
+.gldprcprt-gold-price a:hover{color: #ffeb00;}
+.gldprcprt-gold-price h1{color: #000000;}
+.gldprcprt-gold-price h2{color: #000000;margin: 0;font-size: 20px;line-height: 28px;}
+.gldprcprt-gold-price h3{color: #000000;margin: 0;font-size: 20px;line-height: 28px;}
+.gldprcprt-gold-price .button-primary{background: #000000;color: #ffffff;font-weight: 600;border: 1px solid #000000;border-radius: 0;padding: 5px 20px;font-size: 16px;line-height: 32px;}
+.gldprcprt-gold-price .button-primary:hover,.gldprcprt-gold-price .button-primary.btn-green:hover{background: #ffffff;color: #000000;}
+.gldprcprt-gold-price .button-primary.btn-green {background: #2AAA8A;color: #ffffff;}
+/* Default */
+
+/* Container */
+.gldprcprt-wrapper{width: 1080px;max-width: 96%;margin: 50px auto;background: #E8E8E8;border-radius: 10px;box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);-webkit-box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);-moz-box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);}
+/* Container */
+
+/* Header */
+.gldprcprt-header{display: flex;background-color: #ffffff;padding: 15px 20px;align-items: center;justify-content: space-between;border-top-left-radius: 10px;border-top-right-radius: 10px;}
+.gldprcprt-logo img{width: 150px;display: block;}
+/* Header */
+
+/* Footer */
+.gldprcprt-footer{display: flex;background-color: #ffffff;padding: 15px 20px;align-items: center;justify-content: space-between;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
+/* Footer */
+
+/* Setting Page Content Part */
+.gldprcprt-form{
+    border-bottom: 1px solid #ffffff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+.gldprcprt-form input[type=text]{
+    width: 100% !important;height: 40px;border: 0 !important;border-radius: 0;box-shadow: none;
+}
+.gldprcprt-form input[type=submit]{
+    margin-top: 30px;background: #000000;
+}
+.gldprcprt-form th{
+    color: #000000;font-size: 16px;padding: 20px 0 0 0;
+}
+.gldprcprt-form td{
+    padding: 10px 0px;
+}
+.gldprcprt-gold-price h2{position: relative;padding-left: 40px;}
+.gldprcprt-gold-price h2 > span {content: '';position: absolute;top: 0;left: 0;height: auto;width: 34px;background-size: 100%;}
+.gldprcprt-gold-price h2 > span img{width: 32px;}
+#gldprcprt-container {padding: 50px 30px;}
+.gldprcprt-sub-title {padding: 0 0 10px 0;border-bottom: 1px solid #ffffff;}
+.gldprcprt-gold-price .ai_search_bar_form{padding: 30px 0 0;}
+.gldprcprt-description label{padding-bottom: 10px;font-size: 14px;color: #ffeb00;font-weight: 500;}
+.gldprcprt-description label span {color: #ffffff;font-size: 16px;}
+.gldprcprt-description a:hover{color: #ffffff;text-decoration: underline;}
+/* Setting Bar Page Content Part */
+
+/* Documentation Section Content Part */
+.gldprcprt-gold-price h2{position: relative;padding-left: 40px;}
+.gldprcprt-gold-price h2 > span {content: '';position: absolute;top: 0;left: 0;height: auto;width: 34px;background-size: 100%;}
+.gldprcprt-gold-price h2 > span img{width: 32px;}
+.gldprcprt-documentation .gldprcprt-sub-title {margin: 20px 0;}
+a.link-yellow {color: #ffffff;border-bottom: 1px solid #ffeb00;}
+a.link-yellow:hover{color:  #ffeb00;}
+.gldprcprt-documentation #gldprcprt-container {padding: 30px 30px;}
+span.short-code-design {color: #ffeb00;font-weight: 600;border: 1px dotted;padding: 5px;}
+/* Documentation Section Content Part */
